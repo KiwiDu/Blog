@@ -1,0 +1,22 @@
+body{
+   background-color: #ddd;
+}
+#header{
+    background-color: #333;
+}
+#content{
+    background-color: #fff;
+    width: 95%;
+}
+#footer{
+   background-color: #333;
+}
+div#header,div#footer{
+    color: #fff;
+}
+div#content{
+    color: #000;
+}
+div#header a,div#footer a{
+    color: #fff;
+}
